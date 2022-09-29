@@ -1,0 +1,15 @@
+{
+  "name": "volar-workspaces-pnp-test",
+  "packageManager": "yarn@3.2.3",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "volta": {
+    "node": "18.9.1",
+    "yarn": "1.22.19"
+  },
+  "devDependencies": {
+    "typescript": "4.8.3"
+  }
+}

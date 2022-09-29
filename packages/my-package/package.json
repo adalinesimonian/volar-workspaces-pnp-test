@@ -1,0 +1,13 @@
+{
+  "name": "my-package",
+  "packageManager": "yarn@3.2.3",
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "dependencies": {
+    "vue": "^3.2.40"
+  },
+  "devDependencies": {
+    "typescript": "4.8.3"
+  }
+}
